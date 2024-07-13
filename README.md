@@ -1,6 +1,6 @@
 ## BLE MIDI Wrench for ESP32-S3-USB-OTG
 
-This was written quickly to allow passing through BLE MIDI to Windows 11 based DAWs over USB. I just happened to have an ESP32-S3-USB-OTG on hand.
+This was written quickly to allow passing through BLE MIDI to Windows 11 based DAWs over USB. I just happened to have an [ESP32-S3-USB-OTG](https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32s3/esp32-s3-usb-otg/user_guide.html) on hand.
 
 This should pass through all basic midi functionality with the exception of system exclusive (sysex) messages.
 
